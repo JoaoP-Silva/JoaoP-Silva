@@ -1,5 +1,5 @@
 ### Hi there 👋 I am João Pedro!
-Passionate about challenges and solving problems through softwares and math. Im a undergratuate computer science student at Federal University of Minas Gerais. 
+Passionate about challenges and solving problems through softwares and math. Im an undergratuate computer science student at Federal University of Minas Gerais. 
 
 I'm currently doing research on rerouting (traffic) algorithms.
 
