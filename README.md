@@ -3,8 +3,6 @@ Passionate about challenges and solving problems through softwares and math. Im 
 
 I'm currently doing research on rerouting (traffic) algorithms.
 
-My main areas of interest are in discrete optimization, graphs and data science.
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoP-Silva&exclude_repo=Covid-analysis)](https://github.com/anuraghazra/github-readme-stats)
 
 
