@@ -1,7 +1,7 @@
 ### Hi there 👋 I am João Pedro!
 Passionate about challenges and solving problems through softwares and math. Im an undergratuate computer science student at Federal University of Minas Gerais. 
 
-I'm currently doing research on battery aging prediction and reinforcement learning for traffic lights control. 
+I'm currently doing research on reinforcement learning for traffic lights control. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoP-Silva&exclude_repo=Covid-analysis)](https://github.com/anuraghazra/github-readme-stats)
 
